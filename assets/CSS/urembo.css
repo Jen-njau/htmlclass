@@ -1,0 +1,23 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+th,td{
+    border:2px solid cornflowerblue ;
+    padding:20px ;
+    margin: 10px;
+}
+thead{
+    font-family:"Arial Black" ;
+    font-size:28px ;
+    color: red;
+
+}
+body{
+    background-color: aqua;
+}
+h2{
+   text-align: center;
+    font-size: 30;
+    color: brown;
+}
